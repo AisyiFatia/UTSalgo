@@ -1,0 +1,7 @@
+Algoritma greedy merupakan algoritma yang bersifat heuristik dan urutan logisnya disusun berdasarkan langkah-langkah penyelesaian masalah yang disusun secara sistematis.
+
+contoh : Masalah penukaran uang
+
+ Nilai uang yang ditukar: A
+        Himpunan koin (multiset):  {d1, d2, …, dn}.
+ Himpunan solusi: X = {x1, x2, …, xn},
